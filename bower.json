@@ -1,0 +1,18 @@
+{
+    "name": "ngInfiniteScroll",
+    "description": "ngInfiniteScroll",
+    "homepage": "https://github.com/sroze/ngInfiniteScroll.git",
+    "main": "build/ng-infinite-scroll.js",
+    "license": "http://opensource.org/licenses/mit-license.php",
+    "ignore": [
+        "**/.*",
+        "_*",
+        "node_modules",
+        "compile",
+        "test",
+        "Gruntfile.coffee",
+        ".*"
+    ],
+    "dependencies": {
+    }
+}
